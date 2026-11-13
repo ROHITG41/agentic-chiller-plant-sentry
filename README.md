@@ -69,7 +69,7 @@ flowchart TD
 * **Cognitive Synthesis:** Google GenAI SDK (`gemini-3.8-flash`)
 
 ### Author & Architect
-**Rohit Kumar, PMP, CEng, CEA, FSEr (TÜV)**  
+**Rohit Kumar, PMP, CEng (India), CEA, FSEr (TÜV)**  
 Cross-Technology Technical Architect | Mission-Critical Infrastructure & Applied AI Solutions  
 [LinkedIn](https://www.linkedin.com/in/rohitg41) | [Live Application](https://rohit-kumar-chiller-sentry.streamlit.app)
 
